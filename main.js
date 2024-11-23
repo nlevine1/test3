@@ -1,3 +1,7 @@
 let hello = 'hello world'
 
-console.log(hello)
+let myName = 'nigel'
+
+console.log(hello + myName)
+
+
